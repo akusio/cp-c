@@ -5,3 +5,8 @@ CrackProofの脱獄検知を回避
 
 #License
 GPLv3
+
+#make
+THEOSをインストール後、makefileがあるところまで移動し、
+  
+`make package`
