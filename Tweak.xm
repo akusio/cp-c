@@ -1,3 +1,4 @@
+//不要なものが混じってます
 #import <stdio.h>
 #import <substrate.h>
 #import <Foundation/Foundation.h>
