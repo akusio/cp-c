@@ -7,6 +7,6 @@ CrackProofの脱獄検知を回避
 GPLv3
 
 #make
-THEOSをインストール後、makefileがあるところまで移動し、
+THEOSをインストール後、Makefileがあるところまで移動し、
   
 `make package`
