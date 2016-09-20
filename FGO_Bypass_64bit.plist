@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"jp.gungho.dg",
+			"jp.gungho.padRadar",
+			"com.aniplex.fategrandorder",
+		);
+	};
+}

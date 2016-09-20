@@ -1,0 +1,9 @@
+Package: jp.akusio.cpc64bit
+Name: CP-C
+Depends: mobilesubstrate
+Version: 0.0.3a
+Architecture: iphoneos-arm
+Description: 【！】追加で対策されても対応できないです。64bit、iOS9以上のみ対応。　動かない場合ホーム画面にアイコンが出るタイプの脱獄アプリを消してみてください。　対応アプリ：FGO、パズドレ、ディバゲ     0.0.3a:コード最適化
+Maintainer: akusio
+Author: akusio
+Section: Tweaks
